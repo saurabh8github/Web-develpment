@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>EXP OF P TAG</title>
+	</head>
+	<body>
+		<p>THIS IS THE PARAGRAPH TAG USED TO WRITE PARAGRAPHS <p> NOW THE NEW LINE IS TAKEN IN NOTEPAD
+	</body>
+</html>

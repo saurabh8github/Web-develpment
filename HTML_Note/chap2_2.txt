@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>HEADING ALIGNMENT</title>
+</head>
+<body>
+<h1 align="center">H1 ALIGN WITH CENTER</h1>
+<h2 align="left">H2 ALIGN WITH LEFT</h2>
+<h3 align="right">H3 IS ALIGN WITH RIGHT</h3>
+<h4 align="left">H4 IS ALIGN WITH LEFT</h4>
+<h5 align="center">H5 IS ALIGN WITH CENTER</h5>
+<h6 align="right">H6 IS ALIGN WITH RIGHT</h6>
+</body>
+</html>

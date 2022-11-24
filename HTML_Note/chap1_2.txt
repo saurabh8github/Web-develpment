@@ -1,0 +1,29 @@
+<html>
+ <head>
+  <title>Sample web page</title>
+ </head>
+<body bgcolor="silver">
+<font color="red"face="script mt bold" size=36><b><u><i>
+<div align="center">
+HTML
+</div>
+</font></b></u></i>
+<h1>EXPLANATION</h1>
+<h3>BELOW</h3>
+
+<h2><font color="blue"face="comic sans ms">
+<p>The above "HTML" woed has font attributes like red color, faceas a script mt bold and size 36.
+ it is aligned as center with div command. It is also bold italic an underlined.
+</font>
+<font color="green"face="garamond">
+<p>The size of the word "EXPLANATION" is not increased by font attribute, but is increased by the h1 tag.
+The word "below" is written between the start and end of th h3 tag.
+</font>
+Here in notepad, a new line is taken but sincr this text comes under the P tag , it will be considered as the continuation of the above paragraph.
+<br><br><br>
+<font color="fuchsia"face="courier new"><b>
+NOW THE BR TAG IS WRITTEN. HENCE, THERE IS A SPACE BETEEN THE ABOVE PARAGRAPH AND THESE LINES.
+</font>
+</h2>
+</body>
+</html>

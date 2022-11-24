@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>EXAMPLE WITH NBSP</title>
+	</head>
+	<body>
+	<h1>
+		1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		2&nbsp;&nbsp;&nbsp;&nbsp;3<br>
+		4&nbsp;&nbsp;&nbsp;5&nbsp;6<br>
+		7&nbsp;&nbsp;8&nbsp;9<br>
+		
+	</h1>
+	</body>
+</html>

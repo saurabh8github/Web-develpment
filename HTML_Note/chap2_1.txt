@@ -1,0 +1,13 @@
+<html>
+ <head>
+   <title>DIFFERENT HEADINGS</title>
+ </head>
+ <body>
+      <h1>HEADING WITH H1</h1><br>
+      <h2>HEADING WITH H2</h2><br>
+      <h3>HEADING WITH H3</h3><br>
+      <h4>HEADING WITH H4</h4><br>
+      <h5>HEADING WITH H5</h5><br>
+      <h6>HEADING WITH H6</h6><br>
+ </body>
+</html>

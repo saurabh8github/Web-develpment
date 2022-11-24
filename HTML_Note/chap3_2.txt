@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>BR TAG</title>
+	</head>
+	<body>
+		<br>
+		THIS IS THE FIRST LINE BREAK
+		<br>
+		THIS IS THE SECOND LINE BREAK
+                <br>
+	</body>
+</html>

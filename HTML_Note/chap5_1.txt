@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>INSERTING IMAGE</title>
+	</head>
+	<body bgcolor="maroon">
+	<img src="D:\project-1\bg.jpg" size=50 width=300>
+	
+	</body>
+
+
+
+</html>

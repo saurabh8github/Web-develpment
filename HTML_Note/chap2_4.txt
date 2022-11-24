@@ -1,0 +1,16 @@
+<html>
+      <head>
+           <title>CHANGING THE HEIGHT OF DIVIDER</title>
+      </head>
+      <body>
+           <h2>CHANGING THE HEIGHT OF THE DIVIDER</h2>
+           HR SIZE=1<hr size=1>
+           HR SIZE=2<hr size=2>
+           HR SIZE=3<hr size=3>
+           HR SIZE=5<hr size=5>
+           HR SIZE=8<hr size=8>
+           HR SIZE=13<hr size=13>
+           HR SIZE=21<hr size=21>
+           HR SIZE=34<hr size=34>
+      </body>
+</html>

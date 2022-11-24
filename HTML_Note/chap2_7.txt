@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>CREATING NUMBER 3 WITH HR COMMAND</title>
+        </head>
+	<body>
+		<h1>CREATING NUMBER 3 WITH HR COMMAND</h1>
+                <hr size=20 width=30% align="riht" noshade="noshade">
+		<hr size=80 width=20 align="right" noshade="noshade">
+		<hr size=20 width=30% align="riht" noshade="noshade">
+		<hr size=80 width=20 align="right" noshade="noshade">
+		<hr size=20 width=30% align="riht" noshade="noshade">
+	</body>
+</html>

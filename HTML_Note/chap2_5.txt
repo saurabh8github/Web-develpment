@@ -1,0 +1,10 @@
+<html>
+       <head>
+           <title>CHANGING THE WIDTH OF DIVIDER</title>
+       </head> 
+       <body>
+		<h1>CHENGING THE WIDTH OF THE DIVIDER</h1>
+ 		<hr size=20 width=300>
+		<hr size=34 widh=70%>
+       </body> 
+</html>

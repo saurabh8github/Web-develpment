@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>ALIGNMENT DIVIDER AND NOSHADE</title>
+	</head>
+	<body>
+		<h1>ALIGNMENT DIVIDER AND NOSHADE</h1>
+		<hr size=20 width=50% align="center" noshade="noshade">
+ 		<hr size=30 width=100 align="left">
+		<hr size=40 width=150 align="right" noshade="noshade">
+
+	</body>
+</html>

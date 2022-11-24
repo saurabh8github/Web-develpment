@@ -1,0 +1,12 @@
+<html>
+  <head>
+     <title>EXAMPLE OF HORIZONTAL RULE</title>
+  </head>
+  <body>
+      <h1>HEADING WRITTEN WITH H1 TAG</h1>
+      <hr>
+      <h3>HEADING WRITTEN WITH H3 TAG</h3>
+      <h4>THE HORIZONTAL LINE IS IN BETWEEN THE TWO HEADING </>
+
+  </body>
+</html>
